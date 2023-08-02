@@ -6,7 +6,7 @@ datePublished: Tue Aug 01 2023 05:09:55 GMT+0000 (Coordinated Universal Time)
 cuid: clkrubb2d000l09kvg0qv15qf
 slug: linux-boot-process-overview
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690788834043/7f8f61e8-0001-4025-9da6-edaf17eed601.jpeg
-tags: linux
+tags: linux, linux-boot-process
 
 ---
 
