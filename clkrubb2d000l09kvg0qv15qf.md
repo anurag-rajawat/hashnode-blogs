@@ -61,6 +61,6 @@ The boot process is a complex and essential part of how computers work. It is re
 
 The entire process from power up to login prompt can take anywhere from a few seconds to a few minutes, depending on the speed of your computer and the operating system you are using.
 
-That's all about the Linux boot process. I hope you found this article informative and helpful. If you have any feedback, please feel free to share it in the comments below. Thank you for reading!
+That's all for this article on the Linux boot process. I hope you found it informative and helpful. If you have any feedback, please feel free to share it in the comments below. Thank you for reading!
 
-This is the first part of the [Master Linux](https://anurag-rajawat.hashnode.dev/series/linux-the-practical-way) series, where we will learn about the Linux boot process. Stay tuned for more!
+This is the first part of the [Master Linux](https://anurag-rajawat.hashnode.dev/series/linux-the-practical-way) series. In the next part, we will learn about the Linux Command Line. Stay tuned!
