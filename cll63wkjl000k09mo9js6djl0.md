@@ -4,7 +4,7 @@ seoDescription: "Learn how to manage your Linux jobs effectively with this hands
 datePublished: Fri Aug 11 2023 04:47:10 GMT+0000 (Coordinated Universal Time)
 cuid: cll63wkjl000k09mo9js6djl0
 slug: linux-jobs-management
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691728163437/5b90450c-9b9e-425e-9c33-e8f71d7e4bd1.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691729635286/b40cdd52-df9f-4304-a738-657b7457c8dc.jpeg
 tags: linux, linux-for-beginners, linux-basics, linux-commands
 
 ---
