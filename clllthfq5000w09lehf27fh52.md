@@ -198,12 +198,12 @@ Let's see a couple of examples for a better understanding.
 
 The `ls` command lists the contents of a directory and the `wc` command counts the number of lines in a file. In this case, the `wc` command is counting the number of lines in the output of the `ls`command. The `-l` option tells the `wc` command to count the number of lines, rather than the number of words or characters.
 
-* Let's say you want to know how much space is occupied by the `var` directory. You could use the following commands:
+* Let's say you want to sort the directories according to their size. You could use the following commands:
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692618608294/29a38ade-4b80-40f4-b565-39a8ca75a235.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692868415631/31e491b0-5707-4b90-87fc-a6ef0d904046.png align="center")
 
-The command `sudo du -h /var | tail -1` uses the `du` command to find the total size of the `/var` directory, and then uses the `tail` command to display the last line of output.
+The command `du -h . | sort -n` uses the `du` command to find the total size of the current directory, and then use the `sort` command to sort the output by the size of the directories, with the smallest directories first.
 
 * Let's say you want to download `go1.21.0` tar file according to your system architecture using the command line. You could use the following commands:
     
