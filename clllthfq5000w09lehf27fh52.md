@@ -15,7 +15,7 @@ tags: linux, linux-for-beginners, linux-basics, linux-commands
 
 In the [previous part](https://anurag-rajawat.hashnode.dev/hands-on-file-operations) of this [series](https://anurag-rajawat.hashnode.dev/series/linux-the-practical-way), you learned about file operations. In this part, you will learn about redirection and pipes, two powerful Linux essentials that can be used to improve your productivity and control the flow of data in Linux.
 
-This part going to be long but I'm confident that by the end of this article, you'll have a clear understanding of redirection and pipes.
+This part will be long but I'm confident that by the end of this article, you'll have a clear understanding of redirection and pipes.
 
 So without further ado, let's get started! 🚀
 
