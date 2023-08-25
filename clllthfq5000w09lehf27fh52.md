@@ -4,7 +4,7 @@ seoDescription: "This guide will teach you everything you need to know about red
 datePublished: Tue Aug 22 2023 04:39:47 GMT+0000 (Coordinated Universal Time)
 cuid: clllthfq5000w09lehf27fh52
 slug: redirection-and-pipes-in-linux
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692694536263/c8d7970d-4e0d-401d-bd0e-49b32e6e3b0c.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692943499618/7ac6e817-aa2c-4c44-b94b-e538ad3b6907.jpeg
 tags: linux, linux-for-beginners, linux-basics, linux-commands
 
 ---
